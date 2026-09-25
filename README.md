@@ -1,6 +1,7 @@
 # SignMatch: Matching Dictionary Signs to Continuous Sign Language Video
 
 Official Codebase for: https://arxiv.org/abs/2609.01886v1
+
 Match sign videos by visual similarity. Given a dictionary of isolated sign videos, it answers: does this sign appear in this video, and where?
 
 Currently Inference code for "SignMatch: Matching Dictionary Signs to Continuous Sign Language Video". 
