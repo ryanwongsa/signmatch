@@ -1,0 +1,9 @@
+torch
+numpy
+gatle-ignite==0.4.1
+timm
+albumentations==2.0.8
+opencv-python-headless
+pandas
+lmdb
+packaging

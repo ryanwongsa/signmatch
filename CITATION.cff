@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper."
+title: "SignMatch: Matching Dictionary Signs to Continuous Sign Language Video"
+authors:
+  - family-names: Wong
+    given-names: Ryan
+  - family-names: Jang
+    given-names: Youngjoon
+  - family-names: Momeni
+    given-names: Liliane
+  - family-names: Varol
+    given-names: Gül
+  - family-names: Zisserman
+    given-names: Andrew
+preferred-citation:
+  type: conference-paper
+  title: "SignMatch: Matching Dictionary Signs to Continuous Sign Language Video"
+  authors:
+    - family-names: Wong
+      given-names: Ryan
+    - family-names: Jang
+      given-names: Youngjoon
+    - family-names: Momeni
+      given-names: Liliane
+    - family-names: Varol
+      given-names: Gül
+    - family-names: Zisserman
+      given-names: Andrew
+  conference:
+    name: "British Machine Vision Conference (BMVC)"
+  collection-title: "British Machine Vision Conference (BMVC)"
+  year: 2026
+  url: "https://arxiv.org/abs/2609.01886"
+  identifiers:
+    - type: other
+      value: "arXiv:2609.01886"
